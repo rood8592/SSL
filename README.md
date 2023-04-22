@@ -1,6 +1,8 @@
-# Sintaxis y Semantica de los Lenguajes
-* Curso: K2006
-* Año de cursada: 2023
-* Legajo: 2081301
-* Apellido: Rodas
+# Sintaxis y Semántica de los Lenguajes - Curso: K2006
 * Nombre: Roberto
+* Apellido: Rodas
+* Legajo: 2081301
+* Año de cursada: 2023
+
+
+
